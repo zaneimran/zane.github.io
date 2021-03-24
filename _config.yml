@@ -1,0 +1,8 @@
+title: Zane.GitHub.io
+description: Zane's Github Page
+google_analytics: 
+show_downloads: true
+theme: jekyll-theme-minimal
+
+gems:
+  - jekyll-mentions
